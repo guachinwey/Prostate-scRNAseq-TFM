@@ -27,7 +27,7 @@ prostate-scRNAseq-tfm/
 Esta carpeta contiene los scripts en R utilizados para el análisis de los datos de scRNA-seq.  
 Los scripts están numerados para reflejar el orden lógico del flujo de trabajo (creación de objetos Seurat, control de calidad, integración, clustering, anotación celular y análisis de expresión diferencial).
 
-*Para una descripción detallada del flujo de trabajo y de los parámetros utilizados, consulte el apartado [**Memoria**](./Memoria).*
+*Para una descripción detallada del flujo de trabajo y de los parámetros utilizados, consultar el apartado [**Memoria**](./Memoria).*
 
 ---
 

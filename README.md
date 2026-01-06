@@ -11,13 +11,13 @@ El objetivo del trabajo es el análisis de datos de transcriptómica a nivel de 
 ## Estructura del repositorio
 
 El repositorio está organizado de la siguiente manera:
-
+```
 prostate-scRNAseq-tfm/
 ├── Scripts/
 ├── Resultados/
 ├── Memoria/
 └── README.md
-
+```
 
 ---
 

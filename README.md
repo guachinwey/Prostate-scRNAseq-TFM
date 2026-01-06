@@ -1,8 +1,8 @@
-# Análisis computacional de datos de scRNA-seq en cáncer de próstata
+# Análisis computacional de datos de scRNA-seq en cáncer de próstata.
 
 Este repositorio contiene el código, los resultados y la documentación asociados al Trabajo Final de Máster (TFM) titulado:
 
-**“Análisis computacional de datos de scRNA-seq en cáncer de próstata: integración, caracterización y comparación de poblaciones celulares”**
+**“Análisis computacional de datos de scRNA-seq en cáncer de próstata: integración, caracterización y comparación de poblaciones celulares en tejido sano, PCa y CRPC.”**
 
 El objetivo del trabajo es el análisis de datos de transcriptómica a nivel de célula única (scRNA-seq) para la identificación, anotación y comparación de poblaciones celulares en muestras de próstata sana, cáncer de próstata (PCa) y cáncer de próstata resistente a la castración (CRPC).
 
@@ -32,7 +32,7 @@ Los scripts están numerados para reflejar el orden lógico del pipeline de aná
 
 ## 📁 Resultados
 
-Incluye las figuras, tablas y salidas finales del análisis, organizadas por bloques temáticos (control de calidad, clustering, anotación poblacional, genes característicos, DEGs, etc.).
+Incluye las figuras, tablas y salidas finales del análisis, organizadas por bloques temáticos (control de calidad, clustering, genes característicos, anotación poblacional, estudio poblacional, DEGs).
 
 Estos resultados corresponden a los análisis descritos y discutidos en la memoria del TFM.
 

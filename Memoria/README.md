@@ -1,1 +1,1 @@
-
+Este directorio contiene la memoria completa del Trabajo Final de Máster en formato PDF, donde se describen en detalle los datos utilizados, la metodología, los parámetros empleados y la interpretación de los resultados.
